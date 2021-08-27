@@ -1,5 +1,10 @@
-#main-doc{
+.h2{
+    text-align: left;
+    font-size: x-large;
+    color:darkslategrey;
+}
+.headline{
     text-align: center;
-    color:darkolivegreen;
-    font-size: xx-large;
+    font-size: 60px;
+    color:green;
 }
