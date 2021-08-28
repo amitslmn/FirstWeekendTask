@@ -4,22 +4,35 @@
     color:darkslategrey;
     text-decoration: underline;
     font-weight: bold;
+    
+    
 }
 .headline{
     text-align: center;
     font-size: 60px;
     color:green;
     text-decoration: underline;
+    margin-left:250px;
+
     
 }
 .main-section{
     font-style: inherit  ;
+    margin-left:400px;
+
 }
 a:hover {
     background-color: yellow;
   }
   #navbar{
-    background-color: rgb(160, 152, 152);
+    background-color: rgb(212, 204, 204);
+    position: fixed;
+    box-sizing: border-box;
+    top:0;
+    left:0;
+    height: 100%;
+    
+    
     
     
     
