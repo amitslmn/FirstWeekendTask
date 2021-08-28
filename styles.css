@@ -10,7 +10,17 @@
     font-size: 60px;
     color:green;
     text-decoration: underline;
+    
 }
 .main-section{
     font-style: inherit  ;
 }
+a:hover {
+    background-color: yellow;
+  }
+  #navbar{
+    background-color: rgb(228, 154, 154);
+    
+    
+    
+  }
