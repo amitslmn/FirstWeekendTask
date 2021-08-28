@@ -1,10 +1,16 @@
-.h2{
+.header {
     text-align: left;
     font-size: x-large;
     color:darkslategrey;
+    text-decoration: underline;
+    font-weight: bold;
 }
 .headline{
     text-align: center;
     font-size: 60px;
     color:green;
+    text-decoration: underline;
+}
+.main-section{
+    font-style: inherit  ;
 }
